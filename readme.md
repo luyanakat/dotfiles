@@ -2,7 +2,7 @@
 
 ![pic1](./sc1.png)
 
-![pic2][./sc2.png]
+![pic2](./sc2.png)
 
 ## Installation
 
