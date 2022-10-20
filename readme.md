@@ -6,7 +6,11 @@
 
 ## Installation
 
-Copy all the file into `~/username/.config` folder
+- Copy gtk-3.0 and gtk-4.0 into `~/username/.config` folder
+
+- GnomeShell replace gnome-shell in `~/.themes/` folder
+
+- Freel free to custom by your own 
 
 ## App using
 
