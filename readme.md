@@ -11,3 +11,7 @@ Copy all the file into `~/username/.config` folder
 ## App using
 
 - Nvim setup using [Nvchad](https://nvchad.com/quickstart/install)
+
+- Btop to show system monitor
+
+- Cava
