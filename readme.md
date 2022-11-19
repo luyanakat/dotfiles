@@ -19,3 +19,5 @@
 - Btop to show system monitor
 
 - Cava
+
+- Btop
